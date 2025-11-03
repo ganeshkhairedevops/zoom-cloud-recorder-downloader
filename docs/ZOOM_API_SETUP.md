@@ -6,7 +6,7 @@ This guide explains how to create **Server-to-Server OAuth credentials** in Zoom
 
 ## ✅ Step 1 — Sign in to Zoom Marketplace
 1. Open: https://marketplace.zoom.us/
-2. Sign in using your Zoom account.
+2. Sign in using your Zoom admin account.
 
 ---
 
