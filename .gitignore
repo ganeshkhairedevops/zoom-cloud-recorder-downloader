@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.xlsx
+zoom_recordings_one_user/
